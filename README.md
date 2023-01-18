@@ -11,5 +11,5 @@ Se desea desarrollar un software de monitoreo, el cual sirva para detectar colis
 ## Made with Java 1.8 and JUnit 4 - First Java TDD Project<br>
 It is a simple project, with the purpose of carrying out practices in Java and implementing the TDD methodology for the first time.
 What is TDD? <br>
-It is a development methodology whose objective is to first create the tests and then write the software. Its acronym in English is: Test Driven Development and in Spanish it means: Test Driven Development.<br>
+It is a development methodology whose objective is to first create the tests and then write the software. Its acronym in English is: Test Driven Development.<br>
 It is desired to develop monitoring software, which serves to detect collisions between vehicles that circulate in a certain area. Knowing that there are different types of vehicles (means of transport), you want to constantly know the location (coordinates) of each one, in order to evaluate if a collision occurs (the coordinates of two vehicles are the same). For this, it is requested to develop the "updateCoordinates" method, which, in the event of a collision, must generate a "CollitionException" exception.
