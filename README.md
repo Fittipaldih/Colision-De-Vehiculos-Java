@@ -7,7 +7,7 @@ Es una metodología de desarrollo cuyo objetivo es crear primero las pruebas y l
 Se desea desarrollar un software de monitoreo, el cual sirva para detectar colisiones entre los vehículos que circulan por un área determinada. Sabiendo que se cuenta con distintos tipos de vehículos (medios de transporte), se desea conocer constantemente la ubicación (coordenadas) de cada uno, para poder evaluar si se produce una colisión (las coordenadas de dos vehículos es la misma). Para esto se solicita desarrollar el método “actualizarCoordenadas”, el cual, ante la ocurrencia de una colisión debe generar una excepción “CollitionException”.
 
 ## English
-# Project-CollisionOfVehiclesTDD
+# Collision Of Vehicles with TDD
 ## Made with Java 1.8 and JUnit 4 - First Java TDD Project<br>
 It is a simple project, with the purpose of carrying out practices in Java and implementing the TDD methodology for the first time.
 What is TDD? <br>
