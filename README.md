@@ -1,4 +1,4 @@
-# Proyecto-ColisionDeVehiculosTDD
+# Colisión De Vehiculos con TDD
 ## Español
 ## Realizado con Java 1.8 y JUnit 4 - Primer Proyecto TDD en Java<br>
 Es un proyecto simple, con la finalidad de realizar prácticas en Java e implementar por primera vez la metodología TDD
